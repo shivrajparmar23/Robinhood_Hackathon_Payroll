@@ -1,4 +1,5 @@
 # ALGOPAY.io
+#### Wanna learn more? Check out our team presentation [here](https://drive.google.com/file/d/17mKS9BggFHvKrdzk4grcLrS_txxCwf84/view)!
 
 This solution will guide you in developing and deploying android application using the Algorand blockchain atomic transfer and smart contract that addresses the following use case:
 
